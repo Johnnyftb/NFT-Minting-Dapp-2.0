@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Quicksand:wght@700&display=swap');
+
+:root {
+    --purple-: #8a2be2;
+}
+
+/* Fonts */
+.text-quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.text-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Colours */
+.text-purple {
+    color: var(--purple-);
+}
+
+.bg-purple {
+    background-color: var(--purple-);
+}

@@ -11,7 +11,7 @@ This NFT Minting Dapp allows users to mint NFTs and interact with the Ethereum T
 ## How it Works
 
 ##### Step 1: Connect your Wallet
-![image](/images/metamask.png)
+![image](/images/metamask.PNG)
 
 In the home page, you can connect your wallet via Metamask. The Metamask chrome extension will then appear, in which you can connect your wallet. Make sure you are also on the Rinkeby test network.
 
@@ -21,7 +21,7 @@ In the home page, you can connect your wallet via Metamask. The Metamask chrome 
 You can then select the number of NFTs you would like to mint as shown above.
 
 ##### Step 3: Initiate the Transaction
-![image](/images/metamasktransaction.png)
+![image](/images/metamasktransaction.PNG)
 
 To be able to mint, you must first connect your wallet and select the number of NFTs you would like to mint. Once this is done, you can click the "mint" button and a metamask transacion screen will appear. Within this screen, you are shown how much the transaction will cost, as well as the gas price.
 
